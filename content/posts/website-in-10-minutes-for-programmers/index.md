@@ -10,6 +10,18 @@ cover:
     caption: "Ol' reliable."
     relative: true
 ---
+---
+title: "How to make a free resume website and blog in 10 min for programmers (or people unafraid of the command line)"
+date: 2021-09-28T16:27:16+02:00
+draft: false
+categories: [coding]
+tags: [hugo, javascript, bash, command line, website, static, website generator, framework, writing]
+cover:
+    image: "images/website.png"
+    alt: "Website.png"
+    caption: "Ol' reliable."
+    relative: true
+---
 
 See the website you’re reading this on? I didn’t make this in 10 minutes…. But I sure could have if I had this tutorial. So here’s how you can make your own customizable resume website or blog for free in 2021 using the Hugo framework, a few commands in the terminal, Github Pages to host it.
 
